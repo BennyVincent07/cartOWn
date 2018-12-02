@@ -1,0 +1,14 @@
+.cartView{
+background-color: white;
+color: rgb(182, 122, 50);
+}
+#cartButton{
+    float:right;
+    background-color: rgb(76, 76, 173);
+    height: 55px;
+    width:85px;
+    border: none;   
+    border-radius: 55px;
+    color:white;
+    outline: none;
+}
